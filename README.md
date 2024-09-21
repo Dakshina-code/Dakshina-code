@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharindu Dakshina</h1>
+<h1 align="center">Hi 👋, I'm Dakshina Dolawaththa</h1>
 <h3 align="center">With one years experience working as a Software Engineer and more than two years of strong academic background in analytical modeling and programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshina-code&label=Profile%20views&color=0e75b6&style=flat" alt="dakshina-code" /> </p>
